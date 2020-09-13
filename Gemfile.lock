@@ -24,7 +24,7 @@ GEM
       public_suffix (>= 2.0.2, < 5.0)
     autoprefixer-rails (9.8.6.3)
       execjs
-    bootstrap (4.5.2)
+    bootstrap (5.0.0.alpha1)
       autoprefixer-rails (>= 9.1.0)
       popper_js (>= 1.14.3, < 2)
       sassc-rails (>= 2.0.0)
@@ -316,10 +316,10 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  bootstrap
+  bootstrap (~> 5.0.0.alpha1)
   github-pages
-  jekyll-coffeescript
   rss (~> 0.2.9)
+  sprockets-rails
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
