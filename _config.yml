@@ -1,5 +1,9 @@
 title: Roberto Ruiz
+description: ¡Compartiendo buenas ideas a la comunidad!
 email: rruizdev@gmail.com
+
+sass:
+  style: compressed
 
 plugins:
   - rss
