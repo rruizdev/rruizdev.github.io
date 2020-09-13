@@ -2,6 +2,7 @@
 ---
 
 @import "https://fonts.googleapis.com/css2?family=Barlow:wght@400;500&family=Staatliches&display=swap";
+@import "https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css";
 
 body {
     font-family: 'Barlow', sans-serif;
@@ -9,7 +10,7 @@ body {
 }
 
 div.head {
-    padding: 8px 16px;
+    padding: 8px 12px;
     h1 {
         font-family: 'Staatliches', sans-serif;
         text-transform: uppercase;
